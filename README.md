@@ -12,5 +12,6 @@ It is a sync local directory to s3 bucket and configure cloudfront as well
 
 Webotron has following Features
 
--list_buckets
--list_bucket_objects
+- List Buckets
+- List Objects in Bucket
+- Create & Setup Bucket
