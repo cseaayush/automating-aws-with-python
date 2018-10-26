@@ -15,3 +15,4 @@ Webotron has following Features
 - List Buckets
 - List Objects in Bucket
 - Create & Setup Bucket
+- Sync Directory Tree to Bucket
